@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**AlexandruAchilleF/AlexandruAchilleF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at FMI, passionate about Backend Development, Data Engineering, and building efficient systems from scratch.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Currently studying at the Faculty of Mathematics and Computer Science.
+* Deeply interested in Machine Learning, AWS Serverless architectures, and Web Scraping.
+* Always looking for the next challenging project to optimize, automate, or understand systems.
+
+### Tech Stack & Tools
+
+* **Languages:** Python, C, C++, SQL, HTML, CSS
+* **Data & Cloud:** AWS, Pandas, NumPy, Data Pipelines
+* **Core:** Data Structures, Algorithms, Memory Management
+* **Tools:** Git, Linux Terminal
