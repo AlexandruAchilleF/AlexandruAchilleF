@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at **UniBuc (FMI)**, focused on **Backend Development** and **Data Engineering**. I build robust data pipelines, scalable serverless workflows, and data-driven systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandru_Flueraru-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandru-achille-flueraru-a45167351)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandru_Achille_Flueraru-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandru-achille-flueraru-a45167351)
 
 ---
 
