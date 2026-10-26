@@ -19,10 +19,6 @@ I'm a Computer Science student at **UniBuc (FMI)**, focused on **Backend Develop
 - **[Basalt](https://github.com/AlexandruAchilleF/basalt)** — a columnar analytics engine in C++23.
 - **[Agentic IDE](https://github.com/AlexandruAchilleF/agentic-ide)** — a multi-agent development environment, with the OrchestronAI team.
 
-### Open Source
-
-- **Apache Hamilton** — [proposed a `create-tests` CLI command](https://github.com/apache/hamilton/pull/1748) that generates unit test stubs for dataflows.
-
 ---
 
 ### Tech Stack
